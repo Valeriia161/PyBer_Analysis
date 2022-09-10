@@ -1,7 +1,7 @@
-# `PyBer Challenge`
+![](https://github.com/Valeriia161/PyBer_Analysis/blob/main/PyBer_logo.png)
 
 
- ## `Project Overview ` <br/>
+## `Project Overview ` <br/>
 In this analysis, I created a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, I created a multiple-line graph that shows the total weekly fares for each city type. Finally, I submitted a written report that created a multiple-line graph that shows the total weekly fares for each city type. <br/> 
  #### Resources
 •	Data Source: [Google]( Google) <br/>
@@ -14,7 +14,7 @@ In this analysis, I created a summary DataFrame of the ride-sharing data by city
 ![]( https://github.com/Valeriia161/PyBer_Analysis/blob/main/analysis/pic1_for_readme.png)
 
 
-1.	A ride-sharing summary DataFrame by city type above shows that:  <br/>
+1.	A ride-sharing summary DataFrame by city type above shows following:  <br/>
 •	The total number of rides for Urban city type is 1625. <br/>
 •	The total number of rides for Suburban city type is 625.  <br/>
 •	The total number of rides for Rural city type is 125.  <br/>
